@@ -32,7 +32,14 @@ I enjoy building tools that make complex data more intuitive — from web-based 
 ## 📊 GitHub Stats
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=velitchko&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velitchko&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=jeff&style=for-the-badge&color=gray&label=Visitors)
+
+![Profile Views](https://img.shields.io/badge/Profile_Views-👁️_∞-blueviolet?style=for-the-badge)
+
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velitchko-filipov/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://velitchko.github.io)
 
 

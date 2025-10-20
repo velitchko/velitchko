@@ -1,6 +1,6 @@
 ## Hi there 👋
-💡 I'm Velitchko, a researcher and developer passionate about **visual analytics**, **dynamic networks**, and **interactive data visualization**.  
-I enjoy building tools that make complex data more intuitive — from web-based visualizations to backend analytics pipelines.  
+> I'm Velitchko, a researcher and developer passionate about **visual analytics**, **dynamic networks**, and **interactive data visualization**.   
+> I enjoy building tools that make complex data more intuitive — from web-based visualizations to backend analytics pipelines.  
 
 ## 🚀 Tech Stack
 

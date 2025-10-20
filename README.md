@@ -35,8 +35,6 @@ I enjoy building tools that make complex data more intuitive — from web-based 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velitchko&layout=compact&theme=radical)
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-👁️_∞-blueviolet?style=for-the-badge)
-
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velitchko-filipov/)

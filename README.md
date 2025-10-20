@@ -40,6 +40,7 @@ I enjoy building tools that make complex data more intuitive — from web-based 
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velitchko-filipov/)
+
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://velitchko.github.io)
 
 

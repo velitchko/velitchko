@@ -33,5 +33,6 @@ I enjoy building tools that make complex data more intuitive — from web-based 
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=velitchko&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velitchko&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=jeff&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=jeff&style=for-the-badge&color=gray&label=Visitors)
+
 
